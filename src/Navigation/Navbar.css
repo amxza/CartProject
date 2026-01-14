@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background-color: blue;
+  list-style-type: none;
+  height: 50px;
+
+  
+  /* 2. Turn the UL into a flex container */
+  display: flex;
+  
+  /* 3. Push everything to the right */
+  justify-content: flex-end; 
+  
+  /* 4. Optional: Add spacing between links */
+  gap: 20px; 
+}
+
+li {
+    display: inline;
+}
+
+button{
+    background-color: lightblue;
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover{
+    background-color: tomato;
+}
+
+.line{
+    border-bottom: 2px solid black;
+    width: 100%;
+
+}

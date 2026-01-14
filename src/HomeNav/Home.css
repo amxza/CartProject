@@ -1,0 +1,12 @@
+.homeContainer{
+    display: grid;
+    place-items: center;
+    height: 200px;
+}
+
+#shopBtn{
+    font-size: 1.5em;
+    width: 200px;
+    border-radius: 7px;
+    background-color: lightcoral;
+}
