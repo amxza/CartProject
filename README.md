@@ -1,5 +1,13 @@
 # Shopping Cart Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, simple shopping website built with React and Vite
+
+## Tech Stack
+- React
+- React Router
+- JavaScript
+
+## Key Highlights
+
 
 [https://turbshop.netlify.app](https://6999dc0bb82f570008350f40--turboshop.netlify.app/)
