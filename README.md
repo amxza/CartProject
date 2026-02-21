@@ -22,10 +22,13 @@ A clean, simple shopping website built with React and Vite
 ## Installation & setup
 Clone the repository:
 ``git clone https://github.com/amxza/CartProject/``
+
 Navigate into the project directory:
 ``cd CartProject``
+
 Install dependencies:
 ``npm install``
+
 Start development server:
 ``npm run dev``
 
